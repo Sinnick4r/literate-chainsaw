@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# caches y temporales
+__pycache__/
+.pytest_cache/
+*.log
+*.tmp
+tmp*/
+cache*/
