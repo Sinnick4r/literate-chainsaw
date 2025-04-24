@@ -1,7 +1,7 @@
 # Security Chainsaw | Auditoría de seguridad
 
 **Security Chainsaw** is a modular Python CLI tool for scanning codebases for common security issues and suggesting minimal patches.  
-**Security Chainsaw** es una herramienta re copada en Python para escanear código, encontrar errores de seguridad y tirar parches piolas.
+**Security Chainsaw** es una herramienta en Python para escanear código, encontrar errores de seguridad y tirar parches piolas.
 
 ---
 
@@ -75,11 +75,11 @@ security-chainsaw/
 ## Development / Para arrancar
 
 ```bash
-# Clone the repo / Cloná el repo
+# Clone the repo / Clona el repo
 git clone https://github.com/Sinnick4r/security-chainsaw.git
 cd security-chainsaw
 
-# Setup & install / Prepará e instalá
+# Setup & install / Preparar e instalar
 python -m venv .venv
 source .venv/bin/activate   # Linux/macOS
 # Windows PowerShell: .venv\Scripts\Activate.ps1
